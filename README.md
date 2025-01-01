@@ -1,9 +1,7 @@
 # nvidia-wayland-settings
 
-Create a config file called nvidia.conf on:
-```shell
-/etc/modprobe.d/nvidia.conf
-```
+Create a config file called nvidia.conf on ```/etc/modprobe.d/nvidia.conf```
+
 by typing
 ```shell
 sudo nano /etc/modprobe.d/nvidia.conf
